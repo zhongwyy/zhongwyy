@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zhongwyy
-- 👀 I’m interested in web
-- 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on web
-- 📫 How to reach me web
+- 👀 I’m interested in Minecraft modding
+- 🌱 I’m currently learning Java
 
 <!---
 zhongwyy/zhongwyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
