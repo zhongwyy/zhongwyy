@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhongwyy
 - 👀 I’m interested in Minecraft modding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web
 
 <!---
 zhongwyy/zhongwyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
